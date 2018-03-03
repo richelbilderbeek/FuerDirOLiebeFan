@@ -10,10 +10,10 @@ master|[![Build Status](https://travis-ci.org/richelbilderbeek/FuerDirOLiebeFan.
 It is his first (and up until now only) pure-German CD. 
 Most lyrics were translated from Dutch spontaniously
 while recording. The recording is reasonable. 
-And yes, the spelling error is intended.
+The spelling error is intended.
 
  * [Download the complete CD 'Fuer dir, O, liebe Fan' (MP3, zip)](http://www.richelbilderbeek.nl/CD04_All.zip)
- * [View the (incomplete) lyrics of 'Fuer dir, O, liebe Fan' (doc)](FuerDirOliebeFan.doc)
+ * Download the (incomplete) booklet of 'Fuer dir, O, liebe Fan': [PDF](FuerDirOliebeFan.pdf), [ODT](FuerDirOliebeFan.odt), [DOC](FuerDirOliebeFan.doc)
 
 [![PlayOgg](http://static.fsf.org/playogg/Play_ogg_80x15.png "I support PlayOgg!")](http://playogg.org)
 
